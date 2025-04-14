@@ -5,3 +5,5 @@ for element in newList:
         print(element/2)
     except:
         print(newList[3])
+        
+        ##habro
